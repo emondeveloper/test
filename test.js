@@ -1,4 +1,2 @@
 console.log("Hello world");
-let a =20;
-let b = 30;
-result = a + b;
+console.log("I'm Emon Islam Thanks for watching my code \n");
